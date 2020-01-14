@@ -1,0 +1,16 @@
+{
+ 
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\pythonw.exe",
+    "window.zoomLevel": 1,
+    "[ruby]": {
+        "editor.formatOnSave": true
+      },
+
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "files.associations": {
+        "*.py": "python",
+        "*.f90": "fortran-modern"
+    },
+    "julia.enableTelemetry": true,
+    "julia.executablePath": "C:\\Users\\sierra\\AppData\\Local\\Julia-1.0.3\\bin\\julia.exe",
+}
