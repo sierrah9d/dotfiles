@@ -13,4 +13,16 @@
     },
     "julia.enableTelemetry": true,
     "julia.executablePath": "C:\\Users\\sierra\\AppData\\Local\\Julia-1.0.3\\bin\\julia.exe",
+    "ruby.lint": {
+        "reek": true,
+        "rubocop": true,
+        "ruby": true, //Runs ruby -wc
+        "fasterer": true,
+        "debride": true,
+        "ruby-lint": true
+    },
+    "ruby.codeCompletion": "rcodetools",
+    "ruby.format": "rufo",
+    "ruby.intellisense": "rubyLocate",
+    "ruby.useLanguageServer": true,
 }
